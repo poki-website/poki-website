@@ -28,4 +28,24 @@
   </footer>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Donate | Poki</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Support Poki</h1>
+    <nav>... (same nav links) ...</nav>
+  </header>
+
+  <section>
+    <h2>Make a Donation</h2>
+    <p>Your support helps us feed and care for more people in need.</p>
+    <button onclick="alert('Donation feature coming soon!')">Donate Now</button>
+  </section>
+</body>
+</html>
 
